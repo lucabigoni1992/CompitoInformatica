@@ -5,6 +5,8 @@ VisualStudioVersion = 17.2.32616.157
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CompitoInformatica", "CompitoInformatica\CompitoInformatica.vcxproj", "{306057F3-5A92-4361-B2D2-A8230C375526}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ProvaD'informatica per l 24", "ProvaD'informatica per l 24\ProvaD'informatica per l 24.vcxproj", "{EAF45FC3-68F9-4392-8477-545D36441BA7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{306057F3-5A92-4361-B2D2-A8230C375526}.Release|x64.Build.0 = Release|x64
 		{306057F3-5A92-4361-B2D2-A8230C375526}.Release|x86.ActiveCfg = Release|Win32
 		{306057F3-5A92-4361-B2D2-A8230C375526}.Release|x86.Build.0 = Release|Win32
+		{EAF45FC3-68F9-4392-8477-545D36441BA7}.Debug|x64.ActiveCfg = Debug|x64
+		{EAF45FC3-68F9-4392-8477-545D36441BA7}.Debug|x64.Build.0 = Debug|x64
+		{EAF45FC3-68F9-4392-8477-545D36441BA7}.Debug|x86.ActiveCfg = Debug|Win32
+		{EAF45FC3-68F9-4392-8477-545D36441BA7}.Debug|x86.Build.0 = Debug|Win32
+		{EAF45FC3-68F9-4392-8477-545D36441BA7}.Release|x64.ActiveCfg = Release|x64
+		{EAF45FC3-68F9-4392-8477-545D36441BA7}.Release|x64.Build.0 = Release|x64
+		{EAF45FC3-68F9-4392-8477-545D36441BA7}.Release|x86.ActiveCfg = Release|Win32
+		{EAF45FC3-68F9-4392-8477-545D36441BA7}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
