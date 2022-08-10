@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CompitoInformatica", "CompitoInformatica\CompitoInformatica.vcxproj", "{306057F3-5A92-4361-B2D2-A8230C375526}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{306057F3-5A92-4361-B2D2-A8230C375526}.Debug|x64.ActiveCfg = Debug|x64
+		{306057F3-5A92-4361-B2D2-A8230C375526}.Debug|x64.Build.0 = Debug|x64
+		{306057F3-5A92-4361-B2D2-A8230C375526}.Debug|x86.ActiveCfg = Debug|Win32
+		{306057F3-5A92-4361-B2D2-A8230C375526}.Debug|x86.Build.0 = Debug|Win32
+		{306057F3-5A92-4361-B2D2-A8230C375526}.Release|x64.ActiveCfg = Release|x64
+		{306057F3-5A92-4361-B2D2-A8230C375526}.Release|x64.Build.0 = Release|x64
+		{306057F3-5A92-4361-B2D2-A8230C375526}.Release|x86.ActiveCfg = Release|Win32
+		{306057F3-5A92-4361-B2D2-A8230C375526}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACF2B4A7-D6A4-42E8-86A1-08233432C74A}
+	EndGlobalSection
+EndGlobal
